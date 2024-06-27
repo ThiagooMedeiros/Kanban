@@ -1,0 +1,17 @@
+:root {
+  --wellcome: #6b778c;
+  --title: #182b4d;
+
+  --white: #fff;
+
+  --bkColumn: rgba(255, 255, 255, 0.35);
+  --bsColumn: rgba(77, 200, 126, 0.5);
+  --borderColumn: #4dc87e;
+
+  --columnColor: #f4f5f7;
+  --columnCardTitleColor: #4d5c76;
+  --borderShadowCard: #dfe1e6;
+
+  --hgBackground: rgba(77, 200, 126, 0.2);
+  --hgBorder: #4dc87e;
+}
