@@ -1,0 +1,28 @@
+@import url(header.css);
+@import url(main.css);
+@import url(variables.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+
+  /*Fontes mais agradáveis*/
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main {
+  padding: 30px;
+  user-select: none; /* tira o clique duplo */
+}
+
+body {
+  background-image: url(../images/mar.png);
+  background-size: cover;
+  background-attachment: fixed; /*impede da imagem rolar*/
+
+  /*background: no-repeat;*/
+  /*background-position: center center;*/
+}
