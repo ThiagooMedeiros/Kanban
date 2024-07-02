@@ -1,0 +1,16 @@
+header > span {
+  font-size: 0.85rem;
+  font-weight: 700;
+
+  color: var(--wellcome);
+  letter-spacing: 0.02rem;
+}
+
+header > h1 {
+  font-size: 2rem;
+  font-weight: 600;
+
+  color: var(--title);
+
+  margin-top: 5px;
+}
